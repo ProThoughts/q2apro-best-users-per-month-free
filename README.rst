@@ -20,7 +20,7 @@ Features
 ------------
 Example
 ------------
-This plugin is used at www.gute-mathe-fragen.de (q2a-forum for mathematics). See also screenshot in the plugin files.
+This plugin is used at www.mathelounge.de (q2a-forum for mathematics). See also screenshot in the plugin files.
 
 ------------
 Installation
