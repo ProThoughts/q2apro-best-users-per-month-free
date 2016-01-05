@@ -1,7 +1,13 @@
 This folder is protected by htaccess -> browsers cannot access it.
 
-You have to setup the cronjob that it calls the script "cronjob.php" directly and not via http. 
-But if the cron job executes a web browser or something like wget, making an http request through the webserver, then the htaccess is preventing access. 
+You have to setup the cronjob so that it calls the script "cronjob.php" directly and not via http. 
+
+The cronjob must run on the first day of the month so it can save the scores as YYYY-MM-01.
+
+- - - - - - -
+
+But if the cron job executes a web browser or something like wget, making an http request through the webserver, then the htaccess is preventing access.
+
 If you NEED cronjob called via http, use something like: 
 
 <Files "cronjob.php">
