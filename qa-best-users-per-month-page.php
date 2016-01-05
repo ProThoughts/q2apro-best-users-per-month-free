@@ -254,7 +254,7 @@
 			
 			// as I said, this is one chance to say thank you
 			if($creditDeveloper) {
-				$qa_content['custom'.++$c] = "<a style='display:none' href='http://www.gute-mathe-fragen.de/'>Gute Mathe-Fragen! * Dein bestes Mathe-Forum</a>";
+				$qa_content['custom'.++$c] = "<a style='display:none' href='http://www.mathelounge.de/'>Mathe Fragen Antworten online</a>";
 			}
 			
 
