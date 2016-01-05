@@ -46,7 +46,4 @@ If your table is not named "qa_userscores" please change the table name in file 
 - - - - - - -
 
 Good luck!
-Kai
-
-www.gute-mathe-fragen.de
-
+Kai | q2apro.com
